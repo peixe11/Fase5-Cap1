@@ -13,9 +13,9 @@ Além disso, considerando um uso de **50 GB no HD** e os requisitos mínimos nec
 
 ![Requisitos de HD](img2.png)
 
-Dessa forma, determinamos que **a região de Virginia é mais barata do que São Paulo**.
-
 ![Requisitos da maquina](img3.png)
+
+Dessa forma, determinamos que **a região de Virginia é mais barata do que São Paulo**.
 
 ## 2. Restrições Legais e Performance
 
