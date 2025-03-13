@@ -7,15 +7,15 @@ Atualmente, estamos utilizando a máquina **t4g.micro**, que apresenta o melhor 
 - **Custo mensal na região de Virginia**: **5.32 USD**
 - **Custo mensal na região de São Paulo**: **9.19 USD**
 
-!(img1.png)
+![Diferença dos custos](img1.png)
 
 Além disso, considerando um uso de **50 GB no HD** e os requisitos mínimos necessários:
 
-!(img2.png)
+![Requisitos de HD](img2.png)
 
 Dessa forma, determinamos que **a região de Virginia é mais barata do que São Paulo**.
 
-!(img3.png)
+![Requisitos da maquina](img3.png)
 
 ## 2. Restrições Legais e Performance
 
@@ -23,4 +23,4 @@ Se houver **restrições legais para armazenamento fora do Brasil**, a única op
 
 Além disso, por **São Paulo ser a mesma região onde estamos**, o **tempo de resposta será mais rápido**, garantindo um melhor desempenho da aplicação.
 
-!(img4.png)
+![Grafico de diferença](img4.png)
