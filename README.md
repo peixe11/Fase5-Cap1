@@ -44,19 +44,6 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
    - Executar por meio do link do notebook: https://colab.research.google.com/drive/1OgVv8G6Kv0NWZYZCcAe3nVkq9iR2ADwh?usp=sharing
 
 
-## 🗃 Histórico de lançamentos
-
-* 0.5.0 - XX/XX/2024
-    * 
-* 0.4.0 - XX/XX/2024
-    * 
-* 0.3.0 - XX/XX/2024
-    * 
-* 0.2.0 - XX/XX/2024
-    * 
-* 0.1.0 - XX/XX/2024
-    *
-
 # Custo AWS
 
 ## 1. Escolha da Máquina
@@ -88,6 +75,20 @@ Além disso, por **São Paulo ser a mesma região onde estamos**, o **tempo de r
 
 ## Link video:
 https://youtu.be/jQ2uuJdhVgg?si=CnEC-fd8g4sWA3L1
+
+
+## 🗃 Histórico de lançamentos
+
+* 0.5.0 - XX/XX/2024
+    * 
+* 0.4.0 - XX/XX/2024
+    * 
+* 0.3.0 - XX/XX/2024
+    * 
+* 0.2.0 - XX/XX/2024
+    * 
+* 0.1.0 - XX/XX/2024
+    *
 
 ## 📋 Licença
 
