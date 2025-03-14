@@ -17,10 +17,15 @@ Além disso, considerando um uso de **50 GB no HD** e os requisitos mínimos nec
 
 Dessa forma, determinamos que **a região de Virginia é mais barata do que São Paulo**.
 
+![Grafico de diferença](img4.png)
+
 ## 2. Restrições Legais e Performance
 
 Se houver **restrições legais para armazenamento fora do Brasil**, a única opção viável é hospedar a máquina na **região de São Paulo**, mesmo que o custo seja maior. Isso evita possíveis problemas relacionados à **LGPD**.
 
 Além disso, por **São Paulo ser a mesma região onde estamos**, o **tempo de resposta será mais rápido**, garantindo um melhor desempenho da aplicação.
 
-![Grafico de diferença](img4.png)
+
+
+## Link video:
+https://youtu.be/jQ2uuJdhVgg?si=CnEC-fd8g4sWA3L1
