@@ -43,6 +43,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 ### Código Python:
    - Executar por meio do link do notebook: https://colab.research.google.com/drive/1OgVv8G6Kv0NWZYZCcAe3nVkq9iR2ADwh?usp=sharing
 
+## Link do vídeo: https://youtu.be/14g8zH5sBxM?si=4cZBpfTk97txUQl7
 
 # Custo AWS
 
