@@ -6,9 +6,9 @@
 
 <br>
 
-# Nome do projeto
-Farmtech solutions Fase 5
-## Nome do grupo
+# FarmTech Solutions - Fase 5
+
+## Beginner Coders
 
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/in/luana-porto-pereira-gomes/">Luana Porto Pereira Gomes</a>
