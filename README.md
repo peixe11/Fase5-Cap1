@@ -76,6 +76,9 @@ Além disso, por **São Paulo ser a mesma região onde estamos**, o **tempo de r
 
 ## Link video:
 https://youtu.be/jQ2uuJdhVgg?si=CnEC-fd8g4sWA3L1
+<br>
+
+![Resumo](assets/resumo_AWS.jpg)
 
 
 ## 🗃 Histórico de lançamentos
